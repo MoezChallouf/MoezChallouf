@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **some projects**
 
-- 💬 Ask me about **Angular,typeScript and nodejs**
+- 💬 Ask me about **Vuejs,Angular,typeScript and nodejs**
 
 - 📫 How to reach me **Medmoezchallouf@gmail.com**
 
