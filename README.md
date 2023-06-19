@@ -3,11 +3,9 @@
 
 - 🔭 I’m currently working on **wonderful new project**
 
-- 🌱 I’m currently learning **ASP.NET Core 6.0**
-
 - 👯 I’m looking to collaborate on **some projects**
 
-- 💬 Ask me about **Vuejs, Angular, typeScript and nodejs**
+- 💬 Ask me about **Nextjs, Reactjs and JavaScript**
 
 - 📫 How to reach me **Medmoezchallouf@gmail.com**
 
